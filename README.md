@@ -1,4 +1,10 @@
 # twm-pink-theme
+!!put twmrc and Xresources inside (basically just make them hidden)
+
+~/.twmrc
+
+~/.Xresources
+
 how to customize twm.
 tldr of https://www.x.org/archive/X11R6.8.1/doc/twm.1.html
 
