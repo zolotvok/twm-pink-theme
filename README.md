@@ -11,8 +11,15 @@ tldr of https://www.x.org/archive/X11R6.8.1/doc/twm.1.html
 How to set Custom shortcuts?
 [button | key] = [modifiers] : context : function
 
+for example:
+
+"F1"= s : all : f.exec "exec rofi -show run"
+
 button:
-"F1";"F2"
+
+"F1";"F2";.."F12"
+
+I couldn't set any othe key but that might be because I am retarded.
 
 modifier:
 
@@ -282,8 +289,7 @@ f.zoom
 This function is similar to the f.fullzoom function, except that the only the height of the selected window is changed.
 
 
-for example:
-"F1"= s : all : f.exec "exec rofi -show run"
+
 
 colors
 
