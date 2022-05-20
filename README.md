@@ -5,6 +5,10 @@
 
 ~/.Xresources
 
+wallpaper I use:
+
+https://i.imgur.com/I4IF27V.jpg
+
 how to customize twm.
 tldr of https://www.x.org/archive/X11R6.8.1/doc/twm.1.html
 
